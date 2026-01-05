@@ -23,19 +23,3 @@ FoodRush is a modern, responsive food-delivery web application built using **HTM
 
 ---
 
-## 📂 Project Structure
-FoodRush/
-│── index.html          # Main entry point
-│
-├── css/
-│   └── style.css       # Application styling
-│
-├── js/
-│   └── script.js       # JavaScript logic & API handling
-│
-├── assets/
-│   ├── images/         # Images & icons
-│   └── fonts/          # Fonts (if any)
-│
-└── README.md           # Project documentation
-
