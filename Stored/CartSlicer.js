@@ -1,16 +1,4 @@
 import {createSlice} from "@reduxjs/toolkit"
-
-
-// example:
-// {
-//     id: 124,
-//     name: "Wednesday Chicken Bucket",
-//     
-//    quantity: 2
-// }
-
-// [{id:123,name:"Tandoori paneer", quanity:3},{id:124,name:"Tandoori chicken", quanity:2},{id:125,name:"pizza", quanity:3}]
-
 const cart = createSlice({
     name: 'cartslice',
     initialState: {
