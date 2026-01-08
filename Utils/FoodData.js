@@ -8,6 +8,7 @@ export const imageGridCards =
             "text": "Pizzas",
             "type": "DEEPLINK"
         },
+            
         "entityType": "BANNER",
         "accessibility": {
             "altText": "restaurants curated for pizza",
