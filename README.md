@@ -1,4 +1,4 @@
-# 🍔 FoodRush – Food Delivery Web App
+#  FoodRush – Food Delivery Web App
 
 FoodRush is a modern, responsive food-delivery web application built using **HTML, CSS, and JavaScript**, integrating **live API data** to display real-time restaurant and menu information.
 
