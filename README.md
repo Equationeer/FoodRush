@@ -7,14 +7,14 @@ This project demonstrates scalable frontend architecture, state-driven UI update
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-🔗 **Live Application:** https://YOUR_NETLIFY_LINK  
+🔗 **Live Application:** https://foodrushhh.netlify.app/  
 🔗 **GitHub Repository:** https://github.com/Equationeer/FoodRush  
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🏬 Restaurant listing page
 - 📄 Dynamic restaurant menu rendering
@@ -27,7 +27,7 @@ This project demonstrates scalable frontend architecture, state-driven UI update
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 The project follows a modular and scalable folder structure:
 
@@ -37,7 +37,7 @@ The project follows a modular and scalable folder structure:
 -Separation of UI, business logic, and data
 -Clean folder hierarchy
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 src/
@@ -63,7 +63,7 @@ src/
 ├── index.css
 └── index.html
 ```
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category            | Technology Used        |
 |---------------------|------------------------|
@@ -76,7 +76,7 @@ src/
 | Deployment          | Netlify                |
 | Version Control     | Git & GitHub           |
 
-## ⚙️ Getting Started
+## Getting Started
 
 Follow these steps to run the project locally.
 
@@ -99,7 +99,7 @@ npx parcel src/index.html
 
 ---
 
-### 🔥 Professional Tip (Optional Improvement)
+### Professional Tip (Optional Improvement)
 
 For cleaner commands, you can add scripts in your `package.json`:
 
