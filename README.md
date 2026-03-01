@@ -14,28 +14,27 @@ This project demonstrates scalable frontend architecture, state-driven UI update
 
 ---
 
-## Features
+## Key Features
 
-- 🏬 Restaurant listing page
-- 📄 Dynamic restaurant menu rendering
-- 🛒 Add to Cart / Remove from Cart functionality
-- 🔄 Global state management using Redux Toolkit
-- 🔍 Search functionality
-- ⚡ Loading shimmer effect
-- 📱 Fully responsive UI
-- 📦 Optimized bundling with Parcel
+- Dynamic restaurant listing with efficient data rendering  
+- Real-time menu display with structured component architecture  
+- Centralized cart management with add/remove item functionality  
+- Global state management using Redux Toolkit  
+- Search and filtering capability for improved user experience  
+- Optimized loading states using shimmer UI  
+- Fully responsive layout across devices  
+- Production-optimized build using Parcel bundler  
 
 ---
-
 ## Project Architecture
 
-The project follows a modular and scalable folder structure:
+The application follows a modular and scalable architecture designed for maintainability and extensibility.
 
--Centralized state using Redux store
--Slice-based state logic separation
--Reusable UI components
--Separation of UI, business logic, and data
--Clean folder hierarchy
+- Centralized state management using a Redux store  
+- Slice-based state segregation for predictable state updates  
+- Component-driven development with reusable UI modules  
+- Clear separation of concerns between UI, business logic, and data handling  
+- Structured and maintainable folder hierarchy  
 
 ## Project Structure
 
